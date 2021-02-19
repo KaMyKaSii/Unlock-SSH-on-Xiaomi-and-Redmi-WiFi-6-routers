@@ -1,4 +1,4 @@
-# Unlock-SSH-on-Xiaomi-and-Redmi-WiFi-6-routers
+# Unlock SSH on Xiaomi and Redmi WiFi 6 routers
 
 Login to the Web UI (http://192.168.31.1), get the stok parameter value from the URL, replace it in the below URL and run it on browser:
 ```
